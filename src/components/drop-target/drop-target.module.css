@@ -1,0 +1,10 @@
+.target {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    width: 300px;
+    background-color: grey;
+    border-radius: 20px;
+    padding-top: 20px;
+}

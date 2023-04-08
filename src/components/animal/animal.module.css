@@ -1,0 +1,10 @@
+.animal {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+}

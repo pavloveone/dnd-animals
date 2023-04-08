@@ -1,0 +1,21 @@
+.element {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    margin-right: 10px;
+    user-select: none;
+}
+.element:hover {
+    cursor: pointer;
+}
+.element:last-child {
+    margin-right: 0;
+}
+.element_active {
+    border: 5px solid green;
+}
